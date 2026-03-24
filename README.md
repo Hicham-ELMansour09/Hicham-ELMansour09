@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="center" style=width:"120px">
   <!--C++-->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="150" alt="C++ Logo">
     <!--python-->
