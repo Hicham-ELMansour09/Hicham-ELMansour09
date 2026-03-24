@@ -8,4 +8,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="120" alt="HTML5 Logo">
    <!--CSS-->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="120" alt="CSS3 Logo">
+
+ <!--javascrept-->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="120" alt="JS Logo">
+
 </p>
