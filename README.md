@@ -1,15 +1,11 @@
 
 <p align="center">
+  <!--C++-->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="150" alt="C++ Logo">
-</p>
-# My Python Skills 🐍
-
-<p align="center">
+    <!--python-->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="150" alt="Python Logo">
-</p>
-
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/.github/assets/python.svg" width="300" alt="Python Animation">
+   <!--Html-->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="120" alt="HTML5 Logo">
+   <!--CSS-->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="120" alt="CSS3 Logo">
 </p>
