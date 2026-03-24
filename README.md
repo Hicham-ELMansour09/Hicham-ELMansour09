@@ -1,9 +1,9 @@
-# My Python Projects 🐍
+# My C++ Mastery 🚀
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/master/.github/assets/python.svg" width="400" alt="Python Logo Animation">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="150" alt="C++ Logo">
 </p>
 
 ---
 
-![Python Banner](https://capsule-render.vercel.app/render?type=soft&color=3776ab&height=150&section=header&text=Mastering%20Python&fontSize=50)
+![C++ Banner](https://capsule-render.vercel.app/render?type=soft&color=00599C&height=120&section=header&text=Problem%20Solver%20in%20C++&fontSize=40)
